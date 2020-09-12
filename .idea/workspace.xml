@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fc89ccf-a35e-4aac-99b3-f601d63361e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.TypeScript" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,7 +44,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599854499376</updated>
-      <workItem from="1599854500610" duration="2065000" />
+      <workItem from="1599854500610" duration="2134000" />
+      <workItem from="1599856755282" duration="250000" />
+      <workItem from="1599900675562" duration="2349000" />
+      <workItem from="1599908792918" duration="3225000" />
     </task>
     <servers />
   </component>
@@ -51,13 +55,17 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="172" y="31" key="SettingsEditor" timestamp="1599856575524">
+    <state x="172" y="31" key="SettingsEditor" timestamp="1599902739278">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1599856575524" />
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1599902739278" />
     <state x="556" y="243" width="244" height="307" key="cloudConfig.SelfSettingsDialog" timestamp="1599856588393">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="556" y="243" width="244" height="307" key="cloudConfig.SelfSettingsDialog/0.27.1366.741@0.27.1366.741" timestamp="1599856588393" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599909110062">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1599909110062" />
   </component>
 </project>
