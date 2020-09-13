@@ -33,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +47,9 @@
       <workItem from="1599854500610" duration="2134000" />
       <workItem from="1599856755282" duration="250000" />
       <workItem from="1599900675562" duration="2349000" />
-      <workItem from="1599908792918" duration="3225000" />
+      <workItem from="1599908792918" duration="3854000" />
+      <workItem from="1599912683210" duration="62000" />
+      <workItem from="1600003017466" duration="265000" />
     </task>
     <servers />
   </component>
@@ -55,10 +57,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="172" y="31" key="SettingsEditor" timestamp="1599902739278">
+    <state x="172" y="31" key="SettingsEditor" timestamp="1599912649367">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1599902739278" />
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1599912649367" />
     <state x="556" y="243" width="244" height="307" key="cloudConfig.SelfSettingsDialog" timestamp="1599856588393">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

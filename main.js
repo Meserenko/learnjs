@@ -42,9 +42,10 @@ alert(`Area of the circle is ${area}`);*/
 // 5. Водій їде з середньою швидкістю 50 км в годину. Запитайтесь у нього скільки ще йому необхідно часу їхати, та виведіть відстань.
 
 /*
-let time = +prompt("Скільки годин залишилось їхати?")
+let time = +prompt("Скільки часу залишилось їхати?(хвилин)")
+let hourTime = time / 60
 const speed = 50;
-let distance = time * speed;
+let distance = hourTime * speed;
 alert(`Вам залишилось їхати ${distance} км`);
 
 
@@ -76,6 +77,7 @@ alert(`${miles} miles = ${kilometers.toFixed(3)} km`);
 
 // 7. Юзер вводить скільки коштів на його картці та ціну одного літра бензину. Виводимо скільки бензину він може купити та скільки грошей у нього залишиться.
 
+/*
 let money = +prompt("Введіть кількість грн на вашій картці");
 const benzinPrice = +prompt("Введіть ціну одного літра бензину");
 let benzin = money / benzinPrice;
@@ -90,5 +92,6 @@ if (success == true) {
     let bank = currentLiter * benzinPrice;
     alert(`Тоді у вас залишиться ${bank} грн`);
 }
+*/
 
 
